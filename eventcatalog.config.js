@@ -1,9 +1,9 @@
 /** @type {import('@eventcatalog/core/bin/eventcatalog.config').Config} */
 export default {
-  title: 'EventCatalog',
+  title: 'Rocket.Chat Docs',
   tagline: 'Discover, Explore and Document your Event Driven Architectures',
   organizationName: 'Rocket.Chat',
-  homepageLink: 'https://eventcatalog.dev/',
+  homepageLink: 'https://rocket.chat',
   editUrl: 'https://github.com/boyney123/eventcatalog-demo/edit/master',
   // By default set to false, add true to get urls ending in /
   trailingSlash: false,
@@ -12,9 +12,9 @@ export default {
   base: '/',
   // Customize the logo, add your logo to public/ folder
   logo: {
-    alt: 'EventCatalog Logo',
+    alt: 'Rocket.Chat Logo',
     src: '/logo.png',
-    text: 'EventCatalog'
+    text: 'Rocket.Chat'
   },
   docs: {
     sidebar: {

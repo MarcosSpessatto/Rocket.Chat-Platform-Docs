@@ -2,9 +2,9 @@
 id: index
 ---
 
-# **EventCatalog**
+# **Rocket.Chat**
 
-Welcome to [EventCatalog](https://www.eventcatalog.dev/).
+Welcome to [Rocket.Chat](https://www.eventcatalog.dev/).
 
 This open-source project is designed to help you and your teams bring discoverability and clarity to your event-driven architectures (EDA).
 
