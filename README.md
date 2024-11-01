@@ -1,1 +1,1 @@
-# My Event Catalog
+# Rocket.Chat Platform Docs
